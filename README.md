@@ -1,13 +1,22 @@
-Data Mining I - Fall 2024 Project
+# Data Mining I - Fall 2024 Project
 
-This project is divided into two parts: Image Processing and Text Processing.
-
-1. Image Processing
+**Assignment 1 (Image Dataset Processing)**
 
 The code for image processing is stored in 'Image Dataset Processing.ipynb'.
 The dataset for image processing is located in the 'data' folder.
 
-2. Text Processing
+**Assignment 1 (Text Dataset Processing)**
 
 The code for text processing is stored in 'Text Dataset Processing.ipynb'.
 The dataset for text processing is located in the 'student_6' folder.
+
+**Assignment 2 (Classification Task and Performance Evaluation)**
+
+The dataset for image processing is located in the 'data' folder.
+
+**Assignment 3 (Association Analysis, Deep learning, LLM for classification)**
+
+Consists of 3 parts:
+  - Association Rule Generation (Grocery_Items_6 dataset)
+  - Image Classification using CNN (data dataset)
+  - Text Classification by fine-tuning LLM model (student_6 dataset)
