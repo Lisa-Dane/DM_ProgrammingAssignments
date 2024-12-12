@@ -20,3 +20,13 @@ Consists of 3 parts:
   - Association Rule Generation (Grocery_Items_6 dataset)
   - Image Classification using CNN (data dataset)
   - Text Classification by fine-tuning LLM model (student_6 dataset)
+
+**Assignment 4 (Clustering Analysis)**
+
+The dataset for image processing is located in the 'data' folder.
+
+Consists of 4 parts:
+  - Feature Extraction 
+  - Dimension Reduction
+  - Clustering Algorithm
+  - Clustering Evaluations
